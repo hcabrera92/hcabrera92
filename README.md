@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hcabrera92
 - 👀 I’m interested in becoming a FEWD
 - 🌱 I’m currently learning  HTML - CSS - JS
-- 💞️ I’m looking to collaborate on porjects on the Front End 
+- 💞️ I’m looking to collaborate on projects on the Front End 
 - 📫 How to reach me: Discord: Wasabi#0480 
                       Twitter: hcabrera_92
 

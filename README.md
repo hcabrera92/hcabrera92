@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a FEWD
 - 🌱 I’m currently learning  HTML - CSS - JS
 - 💞️ I’m looking to collaborate on projects on the Front End 
-- 📫 How to reach me: Discord: Wasabi#0480 
+- 📫 How to reach me: Discord: wasabi666. 
                       Twitter: hcabrera_92
 
 <!---
